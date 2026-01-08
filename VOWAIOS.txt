@@ -1,6 +1,6 @@
 {
  "version":"1.51",
- "title":"🛠️ Update VOWA ios V1.51 🛠️",
+ "title":"🛠️ Update VO WhatsApp IOS V1.51 🛠️",
  "description":"Update now new version enjoy best experience.
 
 ✅ VOWhatsApp plus V1.51
