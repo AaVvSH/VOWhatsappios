@@ -3,7 +3,7 @@
  "title":"🛠️ Update Available V1.51 🛠️",
  "description":"Update now new version enjoy best experience.
 
-✅ VOWhatsApp ios V1.51
+✅ VOWhatsApp plus V1.51
 
 ⏫ Updated base 2.25.36.73
 🆕 Fix bugs and more.
