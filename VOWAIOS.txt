@@ -1,9 +1,9 @@
 {
- "version":"1.0",
- "title":"Update VOWhatsApp IOS V1.0",
+ "version":"1.00",
+ "title":"Update VOWhatsApp IOS V1.00",
  "description":"Update now new version enjoy best experience.
 
-✅ VOWhatsApp plus V1.0
+✅ VOWhatsApp plus V1.00
 
 ⏫ Updated base 2.25.36.73
 🆕 Fix bugs and more.
